@@ -1,0 +1,36 @@
+﻿  CategoryConf.cpp
+  MainForm.cpp
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskConf.hpp(32,11): warning C4677: TaskConf: сигнатура члена, не являющегося частным, содержит частный тип сборки "DataManager"
+  (компиляция исходного файла "CategoryConf.cpp")
+  C:\Users\Foret\OneDrive\Desktop\TaskMngr\DataManager.hpp(10,11):
+   см. объявление "DataManager"
+  
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\CategoryConf.hpp(22,15): warning C4677: CategoryConf: сигнатура члена, не являющегося частным, содержит частный тип сборки "DataManager"
+  (компиляция исходного файла "CategoryConf.cpp")
+  C:\Users\Foret\OneDrive\Desktop\TaskMngr\DataManager.hpp(10,11):
+   см. объявление "DataManager"
+  
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\CategoryConf.hpp(22,15): warning C4677: CategoryConf: сигнатура члена, не являющегося частным, содержит частный тип сборки "DataManager"
+  (компиляция исходного файла "MainForm.cpp")
+  C:\Users\Foret\OneDrive\Desktop\TaskMngr\DataManager.hpp(10,11):
+   см. объявление "DataManager"
+  
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskConf.hpp(32,11): warning C4677: TaskConf: сигнатура члена, не являющегося частным, содержит частный тип сборки "DataManager"
+  (компиляция исходного файла "MainForm.cpp")
+  C:\Users\Foret\OneDrive\Desktop\TaskMngr\DataManager.hpp(10,11):
+   см. объявление "DataManager"
+  
+  TaskConf.cpp
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\CategoryConf.hpp(22,15): warning C4677: CategoryConf: сигнатура члена, не являющегося частным, содержит частный тип сборки "DataManager"
+  (компиляция исходного файла "TaskConf.cpp")
+  C:\Users\Foret\OneDrive\Desktop\TaskMngr\DataManager.hpp(10,11):
+   см. объявление "DataManager"
+  
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskConf.hpp(32,11): warning C4677: TaskConf: сигнатура члена, не являющегося частным, содержит частный тип сборки "DataManager"
+  (компиляция исходного файла "TaskConf.cpp")
+  C:\Users\Foret\OneDrive\Desktop\TaskMngr\DataManager.hpp(10,11):
+   см. объявление "DataManager"
+  
+  Создание кода...
+  Category.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TaskMngr.vcxproj -> C:\Users\Foret\OneDrive\Desktop\TaskMngr\x64\Debug\TaskMngr.exe

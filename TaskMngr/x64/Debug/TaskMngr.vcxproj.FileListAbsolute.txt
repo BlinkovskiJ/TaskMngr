@@ -1,0 +1,9 @@
+C:\Users\Foret\OneDrive\ПБД\TaskMngr\TaskMngr\x64\Debug\TaskMngr.vcxproj.AssemblyReference.cache
+C:\Users\Foret\OneDrive\ПБД\TaskMngr\TaskMngr\x64\Debug\TaskMngr.MainForm.resources
+C:\Users\Foret\OneDrive\ПБД\TaskMngr\TaskMngr\x64\Debug\TaskMngr.vcxproj.GenerateResource.cache
+C:\Users\Foret\OneDrive\ПБД\TaskMngr\TaskMngr\x64\Debug\TaskMngr.TaskConf.resources
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskMngr\x64\Debug\TaskMngr.vcxproj.AssemblyReference.cache
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskMngr\x64\Debug\TaskMngr.MainForm.resources
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskMngr\x64\Debug\TaskMngr.TaskConf.resources
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskMngr\x64\Debug\TaskMngr.vcxproj.GenerateResource.cache
+C:\Users\Foret\OneDrive\Desktop\TaskMngr\TaskMngr\x64\Debug\TaskMngr.CategoryConf.resources
